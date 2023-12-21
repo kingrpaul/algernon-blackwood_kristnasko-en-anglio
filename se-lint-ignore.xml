@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+    <file path="logo.svg">
+		<ignore>
+			<code>x-001</code>
+			<reason>Custom logo.</reason>
+		</ignore>
+	</file>
+    <file path="logo.svg">
+		<ignore>
+			<code>x-004</code>
+			<reason>Custom logo.</reason>
+		</ignore>
+	</file>
+    <file path="logo.svg">
+		<ignore>
+			<code>x-014</code>
+			<reason>Custom logo.</reason>
+		</ignore>
+	</file>
+    <file path="logo.svg">
+		<ignore>
+			<code>f-005</code>
+			<reason>Custom logo.</reason>
+		</ignore>
+	</file>
+
+    <file path="uncopyright.xhtml">
+		<ignore>
+			<code>f-006</code>
+			<reason>Non-English version.</reason>
+		</ignore>
+	</file>
+
+    <file path="colophon.xhtml">
+		<ignore>
+			<code>m-025</code>
+			<reason>"Translated from" is itself translated.</reason>
+		</ignore>
+	</file>
+    <file path="colophon.xhtml">
+		<ignore>
+			<code>m-035</code>
+			<reason>Translated during production, not a recognized translator.</reason>
+		</ignore>
+	</file>
+    <file path="colophon.xhtml">
+		<ignore>
+			<code>s-053</code>
+			<reason>manually reviewed, non-standard case</reason>
+		</ignore>
+	</file>
+   
+	<file path="content.opf">
+		<ignore>
+			<code>m-023</code>
+			<reason>Non-SE hosted.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-009</code>
+			<reason>Non-SE hosted.</reason>
+		</ignore>
+	</file>
+
+	<file path="imprint.xhtml">
+		<ignore>
+			<code>m-037</code>
+			<reason>Custom imprint.</reason>
+		</ignore>
+	</file>
+
+
+    <file path="figure-1.png">
+		<ignore>
+			<code>f-019</code>
+			<reason>manually transparency in image</reason>
+		</ignore>
+	</file>
+    <file path="figure-2.png">
+		<ignore>
+			<code>f-019</code>
+			<reason>manually transparency in image</reason>
+		</ignore>
+	</file>
+    <file path="figure-3.png">
+		<ignore>
+			<code>f-019</code>
+			<reason>manually transparency in image</reason>
+		</ignore>
+	</file>
+    <file path="figure-4.png">
+		<ignore>
+			<code>f-019</code>
+			<reason>manually transparency in image</reason>
+		</ignore>
+	</file>
+    <file path="kristnasko-en-anglio.xhtml">
+		<ignore>
+			<code>t-001</code>
+			<reason>believe this results from inclusion of commented English text</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

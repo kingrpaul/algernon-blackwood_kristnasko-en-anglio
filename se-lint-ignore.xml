@@ -26,264 +26,29 @@
 	</file>
     <file path="imprint.xhtml">
 		<ignore>
-			<code>m-037</code>
-			<reason>Translation.</reason>
-		</ignore>
-	</file>
-    <file path="imprint.xhtml">
-		<ignore>
-			<code>m-061</code>
-			<reason>preceding line</reason>
-		</ignore>
-	</file>
-
-    <file path="imprint.xhtml">
-		<ignore>
 			<code>s-012</code>
 			<reason>intended for appearance</reason>
 		</ignore>
 	</file>
-
-    <file path="list.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="list.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="list.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="page.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="page.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="page.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="wikipedia.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="wikipedia.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="wikipedia.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="wikisource.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="wikisource.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="wikisource.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="project-gutenberg.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="project-gutenberg.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="project-gutenberg.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="epub.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="epub.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="epub.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="amazon.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="amazon.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="amazon.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="github.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="github.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="github.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="google.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="google.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="google.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="hathitrust.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="hathitrust.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="hathitrust.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="internet-archive.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="internet-archive.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="internet-archive.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="kobo.svg">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="kobo.svg">
-		<ignore>
-			<code>x-005</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-    <file path="kobo.svg">
-		<ignore>
-			<code>x-014</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
-    <file path="index.html">
-		<ignore>
-			<code>x-001</code>
-			<reason>web use</reason>
-		</ignore>
-	</file>
-
     <file path="titlepage.svg">
 		<ignore>
 			<code>s-003</code>
 			<reason>special case, reader</reason>
 		</ignore>
 	</file>
+	<file path="imprint.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>translated contents</reason>
+		</ignore>
+	</file>
+
+	<file path="christmas-in-england.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>dual-language document</reason>
+		</ignore>
+	</file>
+
 
 </se-lint-ignore>
